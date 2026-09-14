@@ -37,9 +37,3 @@ If you are contributing to or building upon the Bey ecosystem locally, follow th
 *   Node.js (v18+ recommended) or preferred mobile framework environment (React Native / Flutter depending on target build)
 *   Access to a local or public Cashu Mint (e.g., Nutshell)
 
-### Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/bey-cash/bey-wallet.git](https://github.com/bey-cash/bey-wallet.git)
-   cd bey-wallet
